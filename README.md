@@ -1,1 +1,1 @@
-# Introduction to Version Control System
+# Introduction to GIT and HTML
